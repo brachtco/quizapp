@@ -115,11 +115,11 @@ var quiz = [
 });
 });
 
-	// I have created the if statement (the else is more of a placeholder at this point of what i want it to say).
-	// I think the reason that userAnswer can have any property (ie any item or name in the string) is it doesnt matter
-	// because we are giving what the answer should be: to me correct answer would be quiz[currentQuestion].correctAnswer.
-	// But it doesn't run -- two lines of code. Also i ran this console.log(quiz[currentQuestion].correctAnswer) in repl and it works.
-	// so i know i right there but i missing something
+// I have created the if statement (the else is more of a placeholder at this point of what i want it to say).
+// I think the reason that userAnswer can have any property (ie any item or name in the string) is it doesnt matter
+// because we are giving what the answer should be: to me correct answer would be quiz[currentQuestion].correctAnswer.
+// But it doesn't run-two lines of code. Also i ran this console.log(quiz[currentQuestion].correctAnswer) in repl and it works.
+// so i know i'm right there but i missing something....
 
 
 
